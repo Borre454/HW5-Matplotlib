@@ -1,0 +1,5 @@
+1: Urban city type had significantly higher percentage of total fares, drivers, and rides.  
+
+2:Rural areas had the highest average fare per city, showing that these areas might not get as many rides, but the payout would be higher per ride given. 
+
+3: Because there are so many drivers in urban cities, the data could suggest there are more opportunities for rides and high fares as a driver in rural and suburban areas.
